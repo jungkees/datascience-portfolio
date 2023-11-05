@@ -2,23 +2,23 @@
 
 ## About Me
 
-Hello, I'm Jungkee Song, an experienced tech professional with a unique blend of skills in product management and data science. My strategic product leadership, coupled with my strong technical expertise, allows me to build data-driven products, conduct comprehensive data analysis, and create robust machine learning models. Currently, I'm enhancing my data science competencies through the Applied Data Science Program provided by MIT, which I expect to complete by mid-August 2023. I am passionate about harnessing data to uncover insightful narratives and drive product strategy and business growth. With my combined expertise in data science and product management, I am well-equipped to navigate complex challenges and create impactful solutions in both domains.
+Hello, I'm Jungkee Song, an experienced tech professional with a unique blend of skills in product management and data science. My strategic product leadership, coupled with my strong technical expertise, allows me to build data-driven products, conduct comprehensive data analysis, and create robust machine learning models. I am passionate about harnessing data to uncover insightful narratives and drive product strategy and business growth. With my combined expertise in data science and product management, I am well-equipped to navigate complex challenges and create impactful solutions in both domains.
 
 ---
 
 ## Skills
 
-- **Machine Learning:** Regression, Classification, Deep Learning, Unsupervised Learning
-- **Data Analysis:** Exploratory Data Analysis, Feature Engineering, Hypothesis Testing, Product Experiments
-- **Data and ML Tools:** Python, Pandas, NumPy, Scikit-learn, Scipy, TensorFlow, PyTorch, SQL
-- **Product Leadership:** Product Management, Program Management, Cross-functional Leadership
+- **Product Leadership:** Customer Engagement, Data-Driven Decision Making, Strategic Planning, Cross-functional Leadership, Go-to-market Strategy, Product Experiments, Product Lifecycle Management
+- **Data Science & Tools:** SQL, Python, Matplotlib, Seaborn, Plotly, Power BI, EDA, Hypothesis Testing, Pandas, NumPy, Scikit-learn, SciPy, TensorFlow, PyTorch
+- **AI/ML/MLOps:** Machine Learning Models (Recommender Systems, Regression, Classification), Deep Learning (Neural Networks, Transformers, Large Language Models, Generative AI), MLOps (Docker, Kubernetes, Inference Serving)
 - **Software Development:** JavaScript, Web Platform, Web Standards
 
 ---
 
 ## Certifications
 
-- **[Applied Data Science Program](https://professional.mit.edu/course-catalog/applied-data-science-program-leveraging-ai-effective-decision-making), MIT** (Currently enrolled, completion expected by mid-August 2023)
+- **[Applied Data Science Program](https://www.credential.net/e7996611-261a-4259-9766-3e7ebdb8005c), MIT** (May-August 2023)
+- **[Generative AI with LLMs](https://www.coursera.org/account/accomplishments/verify/A4CBAE6MZVSC), DeepLearning.AI** on Coursera, August 2023
 - **[IBM Data Science](https://www.coursera.org/account/accomplishments/professional-cert/LNG94D7S4V8G), IBM Skills Network** on Coursera, March 2023
 - **[Machine Learning](https://www.coursera.org/account/accomplishments/specialization/Y3LRQMM488TK), Stanford University & DeepLearning.AI** on Coursera, March 2023
 
